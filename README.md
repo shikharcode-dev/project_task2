@@ -44,9 +44,9 @@ The focus was on improving layout skills using **Flexbox** and **Position proper
 
 Example:
 
-* `![Design1](image.png)`
-* `![Design2](image-1.png)`
-* `![Design3](image-2.png)`
+* ![Design1](image.png)
+* ![Design2](image-1.png)
+* ![Design3](image-2.png)
 
 ---
 
