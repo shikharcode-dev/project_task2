@@ -40,7 +40,6 @@ The focus was on improving layout skills using **Flexbox** and **Position proper
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
 
 Example:
 
